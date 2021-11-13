@@ -686,6 +686,8 @@ MonoBehaviour:
   - {fileID: 7940159971020196412, guid: 673c730e1fe16f3499bdf52302a83ea4, type: 3}
   - {fileID: 2426001173801847672, guid: 6d667ed8fcda83c43a54e550903d3489, type: 3}
   - {fileID: 1899895223308290745, guid: 6c0ed85dcfe6a2e4bab54713daa5711d, type: 3}
+  spawnRangeX: 20
+  spawnPosZ: 25
 --- !u!4 &2028649184
 Transform:
   m_ObjectHideFlags: 0
